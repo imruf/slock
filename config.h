@@ -22,7 +22,7 @@ static const int pixelSize=0;
 
 
 /* default message */
-static const char * message = "? :>___";
+static const char * message = "Enter Pass:>_";
 
 /* text color */
 static const char * text_color = "#ffffff";
